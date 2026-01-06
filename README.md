@@ -21,10 +21,9 @@ Hi! I am a **Master's student in Robotics Engineering** at the **University of M
 
 I specialize in **Robot Learning**, **Foundation Models for Robotics (VLAs, VLM)**, **Computer Vision**, and **Planning & Perception** for Autonomous Systems. My goal is to bridge the gap between simulation and reality, deploying robust intelligence on physical hardware.
 
-*   🔭 **Currently working on**: Dual-environment drone motion planning using RL in Isaac Sim.
 *   💼 **Experience**: 
-    *   **Robotics Software Intern** at [CapSen Robotics](https://www.capsenrobotics.com/) (Sim2Real, Foundation Models).
-    *   **Product Development Engineer** at Bharat Electronics Limited (3.5 years, Underwater Systems).
+    *   **Robotics Software Intern** at [CapSen Robotics](https://www.capsenrobotics.com/) (Robot Learning for Manipulator, Foundation Vision Models, ML for Vision Guided Inspection).
+    *   **Product Development Engineer, R&D** at Bharat Electronics Limited (3.5 years, Computer Vision, Machine Learning, Autonomous Systems).
 *   🌱 **Education**: M.Eng in Robotics (UMD) | B.Tech in Mechanical Engineering (IIT Dharwad).
 
 ## 🛠️ Tech Stack
@@ -58,17 +57,6 @@ I specialize in **Robot Learning**, **Foundation Models for Robotics (VLAs, VLM)
 | **LLM-Based Robot Navigation** | Implemented **LLaMA** and **Qwen** based walking controllers using In-Context Learning for autonomous navigation. | `LLM` `Transformers` `Python` |
 | **TurtleBot4 A* Navigation** | Implemented **A*** path planning for TurtleBot4, reducing explored nodes by 75% vs Dijkstra. Deployed on real hardware. | `ROS 2` `Nav2` `C++` |
 | **Underwater Object Detection** | Developed a **Li-Fi** enabled detection device. Used **GANs** for data augmentation to improve mAP by 22.8%. | `GANs` `YOLO` `Deep Learning` |
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulk-99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk-99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulk-99&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
 
 ---
 <div align="center">
