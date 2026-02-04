@@ -92,22 +92,26 @@ I specialize in building autonomous systems that integrate **Robot Learning**, *
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <strong>End-to-End RL for Industrial Manipulation</strong>
+      <a href="https://www.linkedin.com/posts/rahul-kumar4_robotics-foundationmodel-reinforcementlearning-activity-7374143497047748608-q0gj"><strong>End-to-End RL for Industrial Manipulation</strong></a>
     </td>
     <td align="center" width="50%">
-      <strong>Scalable Cloud-based MLOps Pipeline for Vision</strong>
+      <a href="https://github.com/rahulk-99/distributed-vision-mlops-pipeline"><strong>Scalable Cloud-based MLOps Pipeline for Vision</strong></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/work_1.gif" width="300" />
+      <a href="https://www.linkedin.com/posts/rahul-kumar4_robotics-foundationmodel-reinforcementlearning-activity-7374143497047748608-q0gj">
+        <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/work_1.gif" width="300" />
+      </a>
       <br/><br/>
       Developed high-fidelity <strong>Digital Twin</strong> in <strong>Isaac Sim</strong> to train RL policies from scratch. Achieved robust <strong>Sim2Real</strong> transfer.
       <br/>
       <code>Digital Twin</code> <code>Isaac Sim</code> <code>PPO</code> <code>Sim2Real</code>
     </td>
     <td align="center">
-      <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/mlops_demo.gif" width="300" />
+      <a href="https://github.com/rahulk-99/distributed-vision-mlops-pipeline">
+        <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/mlops_demo.gif" width="300" />
+      </a>
       <br/><br/>
       Distributed MLOps pipeline on <strong>AWS EKS</strong> using <strong>Ray Serve</strong>. Orchestrated <strong>Async</strong> inference of 2 heavy-weight <strong>Vision Models</strong> concurrently.
       <br/>
@@ -116,22 +120,26 @@ I specialize in building autonomous systems that integrate **Robot Learning**, *
   </tr>
   <tr>
     <td align="center">
-      <strong>Non-Holonomic Sim-to-Real Planner</strong>
+      <a href="https://github.com/rahulk-99/A-Star-Planning-competition"><strong>Non-Holonomic Sim-to-Real Planner</strong></a>
     </td>
     <td align="center">
-      <strong>Multi-Agent RL Navigation</strong>
+      <a href="https://github.com/rahulk-99/4wheeled-robot-navigation-RL"><strong>Multi-Agent RL Navigation</strong></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/A_star.gif" width="300" />
+      <a href="https://github.com/rahulk-99/A-Star-Planning-competition">
+        <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/A_star.gif" width="300" />
+      </a>
       <br/><br/>
       Engineered custom A* for differential-drive robot, modeling <strong>Non-Holonomic Constraints</strong>. Achieved <strong>Sim2Real</strong> on <strong>TurtleBot4</strong>.
       <br/>
       <code>Sim2Real</code> <code>ROS2</code> <code>Gazebo</code> <code>TurtleBot</code> <code>A*</code>
     </td>
     <td align="center">
-      <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/RL_Navigation.gif" width="300" />
+      <a href="https://github.com/rahulk-99/4wheeled-robot-navigation-RL">
+        <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/RL_Navigation.gif" width="300" />
+      </a>
       <br/><br/>
       Modeled <strong>Kinematics</strong> for 4-wheel independent steering robots. Trained <strong>PPO</strong> from scratch for multi-agent collision avoidance (95% success).
       <br/>
@@ -140,12 +148,14 @@ I specialize in building autonomous systems that integrate **Robot Learning**, *
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <strong>Multi-Agent SLAM System</strong>
+      <a href="https://github.com/rahulk-99/PrimeScout-MultiRobot-SLAM"><strong>Multi-Agent SLAM System</strong></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/slam_map_merge.png" width="300" />
+      <a href="https://github.com/rahulk-99/PrimeScout-MultiRobot-SLAM">
+        <img src="https://rahulk-99.github.io/assets/img/masonry-portfolio/slam_map_merge.png" width="300" />
+      </a>
       <br/><br/>
       Architected decentralized multi-agent system using <strong>ROS 2</strong> for 3-robot navigation with centralized <strong>Map Merging</strong>.
       <br/>
