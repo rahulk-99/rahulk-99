@@ -154,12 +154,7 @@ I specialize in building autonomous systems that integrate **Robot Learning**, *
   </tr>
 </table>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulk-99&show_icons=true&theme=radical&count_private=true" height="150" alt="Rahul's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk-99&theme=radical&langs_count=6" height="150" alt="Rahul's Top Langs" />
-</p>
 
 ---
 <div align="center">
